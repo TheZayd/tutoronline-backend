@@ -11,34 +11,34 @@ public class ReviewApi {
     public TutorReview api(){
         TutorReview johnWestReview = new TutorReview(
                 "John West",
-                "https://i.ibb.co/6Nxjz59/tutor.jpg",
+                "https://ibb.co/t2LvkDP",
                 135,
-                "TutorOnline has helped me to achieve my results",
+                "TutorOnline has helped me to easily connect with students on a regular basis.",
                 5,
                 "A-Level History and English"
         );
 
         TutorReview steveNorthReview = new TutorReview(
                 "Steve North",
-                "https://lh3.googleusercontent.com/proxy/evHiiYN0ymXsKIYtFDTymHepjmDYcwB6xEb0mdFlm5iDhpOBcGDwlyvHhxPAnBZ-If1xh6LUNyxHrKCDO0XK1EK1",
+                "https://ibb.co/hcXG3Tk",
                 225,
-                "TutorOnline helped me to connect with the right students",
+                "TutorOnline helped me to raise my grade quickly.",
                 5,
                 "GCSE Maths and Physics"
         );
 
         TutorReview julieEastReview = new TutorReview(
                 "Julie East",
-                "https://www.superprof.co.in/images/teachers/teacher-home-experienced-native-female-english-teacher-looking-tutor-manchester-spanish-speaker.jpg",
+                "https://ibb.co/26bD2Tr",
                 95,
-                "TutorOnline was a good platform but had some small issues",
+                "TutorOnline was a good platform but customer service wasn't always available.LATROD",
                 4,
                 "A-Level Economics and Politics"
         );
 
         TutorReview shaniceSouthReview = new TutorReview(
                 "Shanice South",
-                "https://m.media-amazon.com/images/M/MV5BOTQ2MWMwMGUtOWVkMi00OTdlLWEzZTMtYTU0MGIwODU1OGE3XkEyXkFqcGdeQXVyNTYwNzgwNjk@._V1_UY317_CR17,0,214,317_AL_.jpg",
+                "https://ibb.co/Gsfs29b",
                 270,
                 "TutorOnline gave me the feedback I needed to improve as a teacher",
                 5,
